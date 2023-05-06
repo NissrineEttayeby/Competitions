@@ -3,8 +3,10 @@
 
 
 
-<a><href = https://www.kaggle.com/competitions/home-data-for-ml-course/a>
+[House price_competition](https://www.kaggle.com/competitions/home-data-for-ml-course)
 
-<a>Digit recognizer competion<href = https://www.kaggle.com/competitions/digit-recognizer/a>
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-https://www.kaggle.com/competitions/titanic
+[Digit recognizer_competion](https://www.kaggle.com/competitions/digit-recognizer)
+
+[House price advanced_competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
+[Titanic compettion](https://www.kaggle.com/competitions/titanic)
