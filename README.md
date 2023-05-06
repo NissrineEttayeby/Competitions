@@ -1,6 +1,6 @@
 # Competitions
 
-
+![image](https://user-images.githubusercontent.com/108592629/236590487-2e0c2e6f-65bb-4c17-a08f-ae2d15473f11.png)
 
 
 [House price_competition](https://www.kaggle.com/competitions/home-data-for-ml-course)
